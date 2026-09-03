@@ -1,7 +1,7 @@
 # Restock Buddy
 
 Public Windows downloads, release history, and support for Restock Buddy.
-Application source code is maintained in a separate private repository.
+Application source code is maintained in the private `Restock-Buddy-Code` repository.
 
 
 Monitors product pages and sends a push notification to your phone when it
@@ -11,7 +11,7 @@ It does not add to cart, sign in, or buy anything. It reads the same public
 stock information your browser sees when you open the page, and tells you about
 it — the buying is up to you.
 
-**[Download the latest release](https://github.com/Brusko25/restock-buddy/releases/latest)**
+**[Download the latest release](https://github.com/Brusko25/Restock-Buddy-Releases/releases/latest)**
 
 New to it? The bundled
 **[Restock-Buddy-User-Guide.pdf](Restock-Buddy-User-Guide.pdf)** is a

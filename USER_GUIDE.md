@@ -80,7 +80,7 @@ Select **Send Test Notification** before adding products.
 - If Restock Buddy reports an error, it names the cause, such as an unreachable
   server or the daily limit being reached.
 
-The test message includes <https://github.com/Brusko25/restock-buddy>. Tap
+The test message includes <https://github.com/Brusko25/Restock-Buddy-Releases>. Tap
 the notification on your phone to confirm that links open correctly. Real
 restock alerts open the product page the same way.
 
