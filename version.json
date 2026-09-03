@@ -1,0 +1,6 @@
+{
+  "version": "0.8.3",
+  "download_url": "https://github.com/Brusko25/restock-buddy/releases/download/v0.8.3/Restock-Buddy-v0.8.3-Windows.zip",
+  "changelog": "This release fixes the known issue in v0.8.2. Test This Page now works on any shop, not only the six established retailers. In v0.8.2 the browser helper had permission for those six and nothing else, so on any other shop it could not start and the screen returned nothing.\n\nThe first time Restock Buddy opens a product page on another shop, a page appears asking whether the helper may read it, and your browser then shows its own confirmation. Nothing is read until you agree, and you can allow that one shop rather than all of them.\n\nTest results now show how much weight to give each one, and there is an advanced editor for describing a shop yourself.\n\nAfter installing, remove the old browser helper and load the new one, then confirm it shows 2.3.0. The permission request is part of that helper, so an older one cannot ask for it. Your products, alert topic and push settings are unchanged.",
+  "sha256": "bdf881983663d9fc4802234eebe6ba7cc188302df639c648e2fef1f23efdbd0d"
+}
